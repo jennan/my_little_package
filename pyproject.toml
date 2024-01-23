@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "my_little_package"
 description = "a minimal package example"
-version = "0.1.1"
+version = "0.1.2"
 authors = [
     { name = "Maxime RIO", email = "maxime.rio@nesi.org.nz" }
 ]

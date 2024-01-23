@@ -19,7 +19,7 @@ python3 -m venv venv
 then install this package in it:
 
 ```bash
-python3 -m pip install git+https://github.com/jennan/my_little_package@v0.1.0
+python3 -m pip install git+https://github.com/jennan/my_little_package@v0.1.2
 ```
 
 We can now use import it and use it:

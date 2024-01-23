@@ -3,5 +3,5 @@ import defopt
 from my_little_package.talk import greeting
 
 
-def main(name: str):
+def main():
     defopt.run(greeting)

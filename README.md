@@ -1,6 +1,6 @@
 # My Little Package
 
-A example of a very minimal Python package.
+An example of a very minimal Python package.
 
 
 ## Getting started
@@ -19,7 +19,7 @@ python3 -m venv venv
 then install this package in it:
 
 ```bash
-python3 -m pip install git+https://TODO
+python3 -m pip install git+https://github.com/jennan/my_little_package@v0.1.0
 ```
 
 We can now use import it and use it:
@@ -28,7 +28,7 @@ We can now use import it and use it:
 $ python3
 >>> from my_little_package.talk import greeting
 >>> greeting("Pinkie Pie")
-TODO
+Hello Pinkie Pie!
 ```
 
 The package also provides a command line tool `mlp` that we can make use of:
@@ -43,7 +43,7 @@ mlp Applejack
 During development, we can use the same approach but installing the cloned repository in development mode:
 
 ```
-git clone
+git clone TODO
 ```
 
 

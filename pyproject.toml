@@ -18,7 +18,8 @@ dynamic = ["version"]
 dev = [
     "ruff",
     "pdbpp",
-    "pyinstrument"
+    "pyinstrument",
+    "pytest",
 ]
 
 [project.scripts]

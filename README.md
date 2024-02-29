@@ -88,3 +88,4 @@ pytest
 - https://packaging-guide.openastronomy.org/en/latest/minimal.html
 - https://www.scivision.dev/python-minimal-package/
 - https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+- https://packaging.python.org/en/latest/guides/writing-pyproject-toml/

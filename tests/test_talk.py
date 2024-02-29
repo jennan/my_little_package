@@ -3,7 +3,7 @@ from my_little_package import talk
 
 
 def test_talk():
-	talk.greeting('Adam')
+    talk.greeting("Adam")
 
 
 # expected to fail

@@ -6,7 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "my_little_package"
 description = "a minimal package example"
 authors = [
-    { name = "Maxime RIO", email = "maxime.rio@nesi.org.nz" }
+    { name = "Maxime RIO", email = "maxime.rio@nesi.org.nz" },
+    { name = "Alexander PLETZER", email = "alexander.pletzer@nesi.org.nz " }
 ]
 dependencies = [
     "pyyaml",

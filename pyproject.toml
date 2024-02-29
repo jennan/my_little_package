@@ -5,6 +5,8 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "my_little_package"
 description = "a minimal package example"
+readme = "README.md"
+license = {file = "LICENSE"}
 authors = [
     { name = "Maxime RIO", email = "maxime.rio@nesi.org.nz" },
     { name = "Alexander PLETZER", email = "alexander.pletzer@nesi.org.nz " }

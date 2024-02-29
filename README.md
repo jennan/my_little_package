@@ -76,6 +76,12 @@ Now we can use `ruff` to format our code and keep it nice and tidy:
 ruff src/
 ```
 
+We can also run the tests defined in the [tests](tests) folder using `pytest`:
+
+```
+pytest
+```
+
 
 ## References
 

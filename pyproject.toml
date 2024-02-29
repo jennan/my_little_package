@@ -15,11 +15,12 @@ dependencies = [
 dynamic = ["version"]
 
 [project.optional-dependencies]
+test = ["pytest"]
 dev = [
+    "my_little_package[test]",
     "ruff",
     "pdbpp",
-    "pyinstrument",
-    "pytest",
+    "pyinstrument"
 ]
 
 [project.scripts]
